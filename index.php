@@ -2,6 +2,7 @@
 include_once( 'config/global.php' );
 include_once( 'sources/articles/articles.php' );
 include_once( 'sources/commentaires/commentaires.php' );
+
 ?>
 <!doctype html>
 <html>
