@@ -29,5 +29,5 @@ while ( $row = $results->fetch_object ()  )
     echo '<pre>', var_dump($row),'</pre>';
     
     echo $row->TitleArticle;
-    
+     
 }
